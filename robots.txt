@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etionebul.github.io/etionebul.etionebul
+Sitemap: https://etionebul.github.io/app/etionebul.etionebul
+Sitemap: https://etionebul.github.io/assets/etionebul.etionebul
+Sitemap: https://etionebul.github.io/css/etionebul.etionebul
+Sitemap: https://etionebul.github.io/includes/etionebul.etionebul
+Sitemap: https://etionebul.github.io/item/etionebul.etionebul
+Sitemap: https://etionebul.github.io/src/etionebul.etionebul
